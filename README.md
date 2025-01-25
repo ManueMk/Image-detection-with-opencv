@@ -1,1 +1,1 @@
-# Image-detection-with-opencv
+# Image classification with RESNET
